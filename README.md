@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juicyfroot
-- 👀 I’m interested in ... CYBERSECURITY, INTERNET OF THINGS, ARTIFICIAL INTELLIGENCE, and INTERACTION DESIGN
-- 🌱 I’m currently learning ... NOTHING. I'M TAKING A HOT GIRL SUMMER. 🤙 (まあ、日本語を勉強している...)
-- 💞️ I’m looking to collaborate on ... TAKING ALL PROJECTS.
-- 📫 How to reach me ... CONTACT FOR WHATSAPP OR E-MAIL
+- 👋 Hi, call me JOYCE
+- 👀 I’m interested in ... UI/UX DESIGN AND RESEARCH, CYBERSECURITY, and definitely WORLD TRAVEL
+- 🌱 I’m currently learning ... PYTHON
+- 💞️ I’m looking to collaborate on ... TAKING ON ALL PROJECTS
+- 📫 How to reach me ... DM ON TWITTER @JUICYFROOT__
 
 <!---
 juicyfroot/juicyfroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
