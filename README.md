@@ -1,4 +1,4 @@
-- 👋 Hi, call me JOYCE
+- 👋 Hi/Salut/안녕하세요!
 - 👀 I’m interested in ... UI/UX DESIGN AND RESEARCH, CYBERSECURITY, and definitely WORLD TRAVEL
 - 🌱 I’m currently learning ... PYTHON
 - 💞️ I’m looking to collaborate on ... TAKING ON ALL PROJECTS
