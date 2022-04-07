@@ -1,4 +1,4 @@
-- 👋 Hi/Salut/안녕하세요!
+- 👋 Hi/안녕하세요!
 - 👀 I’m interested in ... UI/UX DESIGN AND RESEARCH, WEB DEVELOPMENT, and definitely WORLD TRAVEL
 - 🌱 I’m currently learning ... HTML/CSS
 - 💞️ I’m looking to collaborate on ... TAKING ON ALL PROJECTS
